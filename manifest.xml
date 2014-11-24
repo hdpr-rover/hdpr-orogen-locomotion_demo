@@ -1,0 +1,20 @@
+<package>
+  <description brief="Locomotion Demo of a sequence of 2D motion commands">
+    Locomotion Demo of a sequence of 2D motion commands for the Exoter Rover
+  </description>
+  <author>Martin Azkarate/Martin.Azkarate@esa.int</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="exoter/locomotion_control" />
+  <depend package="drivers/platform_driver" />
+  <depend package="base/orogen/types" />
+
+</package>
