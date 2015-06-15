@@ -1,6 +1,6 @@
 <package>
   <description brief="Locomotion Demo of a sequence of 2D motion commands">
-    Locomotion Demo of a sequence of 2D motion commands for the Exoter Rover
+    Locomotion Demo of a sequence of 2D motion commands for the HDPR Rover
   </description>
   <author>Martin Azkarate/Martin.Azkarate@esa.int</author>
   <license></license>
