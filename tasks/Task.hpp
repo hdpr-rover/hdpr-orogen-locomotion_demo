@@ -27,7 +27,7 @@ namespace locomotion_demo {
     protected:
 
 	int index;
-	base::MotionCommand2D motion_command;
+	base::commands::Motion2D motion_command;
 
 
     public:

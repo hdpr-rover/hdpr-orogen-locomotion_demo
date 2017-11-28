@@ -40,7 +40,7 @@ task_context "Task" do
     #
     # Data can be written using _output.write(value). _output.connected() returns
     # if this output is connected to an input or not.
-    output_port "motion_command", "base/MotionCommand2D"
+    output_port "motion_command", "base/commands/Motion2D"
 
     # If you want that component's updateHook() to be executed when the "input"
     # port gets data, uncomment this and comment the 'periodic' line
